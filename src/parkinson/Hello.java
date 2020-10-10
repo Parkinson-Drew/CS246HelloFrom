@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("Hello, my name is Drew");
         System.out.println("Hello Drew, my name is Frank.");
         System.out.println("Nice to meet you Frank.");
+        System.out.println("Thanks for updating my repo.");
     }
 }
